@@ -1,10 +1,5 @@
 # Smart Resume Analyser App
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
-
-## [Watch Tutorial for this project](https://youtu.be/hqu5EYMLCUw)
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/yt_thumb.jpg">
 
 ## Source
 - Extracting user's information from the Resume, I used [PyResparser](https://omkarpathak.in/pyresparser/)
@@ -20,7 +15,7 @@
 - Youtube video recommendations
 
 ## Usage
-- Clone my repository.
+
 - Open CMD in working directory.
 - Run following command.
   ```
@@ -41,13 +36,10 @@
 ## Screenshots
 
 ## User side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc1.png">
+<img src="https://github.com/Sanjay-Chhaba/Smart_Resume_Analyser_App/blob/main/sc1.png">
 
 ## Admin Side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc2.png">
+<img src="https://github.com/Sanjay-Chhaba/Smart_Resume_Analyser_App/blob/main/sc2.png">
 
 
-## Just follow☝️ me and Star⭐ my repository 
 
-# [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
-## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
